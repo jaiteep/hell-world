@@ -1,2 +1,2 @@
 # hell-world
-First repository
+Hello world. This is a new thing I made. lalalalala
